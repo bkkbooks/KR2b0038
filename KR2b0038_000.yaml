@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2b0038/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 御定資治通鑑綱目三編
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:25:50.611577'
+  source:
+    repository: kanripo
+    path: KR2b0038/KR2b0038_000.txt
+hash: sha256:527fe85b65b57a2889b72d9d33b2adadb63e6fe2e06b925c4e1bbd50dc03d4b1
